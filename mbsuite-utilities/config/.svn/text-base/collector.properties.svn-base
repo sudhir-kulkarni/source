@@ -1,0 +1,17 @@
+# URL with username and password for the database storing the data
+#For e.g - db-url=jdbc:mysql://10.88.6.23/mbsuite?user=root&amp;password=root123
+#db_url=
+db-url=jdbc:mysql://10.88.6.23/rabbitmq-mbsuite?user=root&password=root123
+#Names of the System Metric Graphs to be included in the reports.
+#For e.g - machine_graphs=cpu,memory,network
+#machine_graphs=
+machine_graphs=cpu,memory,network
+
+
+
+PV_SIZE=line
+CPU_SPREAD=bar
+CPU_UTIL=line
+IO_READS=line
+IO_WRITES=line
+NW_UTIL_1G=line

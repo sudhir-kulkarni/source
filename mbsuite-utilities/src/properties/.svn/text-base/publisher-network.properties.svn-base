@@ -1,0 +1,6 @@
+skipLines=0
+separator=colon
+db-coloumn=token:string,time:time,Interface:string,kb_ps_recv:double,kb_ps_written:double,pk_ps_recv:double,pk_ps_written:double,putil:double,error_ps:double
+db-table=publisher_network_statistics
+
+

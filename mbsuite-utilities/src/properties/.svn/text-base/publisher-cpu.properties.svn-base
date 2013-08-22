@@ -1,0 +1,4 @@
+skipLines=3
+separator=space
+db-coloumn=token:string,time:time,PID:int,puser:double,psystem:double,pguest:double,pcpu:double,cpu:int,command:string
+db-table=publisher_cpu_statistics

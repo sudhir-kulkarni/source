@@ -1,0 +1,2 @@
+
+dbURL=jdbc:mysql://10.88.6.23/rabbitmq-mbsuite?user=root&password=root123

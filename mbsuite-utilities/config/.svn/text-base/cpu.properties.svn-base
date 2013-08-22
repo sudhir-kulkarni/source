@@ -1,0 +1,5 @@
+
+separator=space
+db-url=jdbc:mysql://10.88.203.39/rabbitmq-mbsuite?user=root&password=root123
+db-coloumn=token:string,time:timestamp,PID:int,puser:double,psystem:double,pguest:double,pcpu:double,cpu:int,command:string
+db-table=cpu_statistics

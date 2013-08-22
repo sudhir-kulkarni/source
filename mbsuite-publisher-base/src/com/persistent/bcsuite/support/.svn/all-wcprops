@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/TMT-EventService-POC/!svn/ver/524/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support
+END
+PublisherDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/TMT-EventService-POC/!svn/ver/445/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/PublisherDetail.java
+END
+TasksMappingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TMT-EventService-POC/!svn/ver/37/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/TasksMappingAdapter.java
+END
+AttributesMappingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/TMT-EventService-POC/!svn/ver/37/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/AttributesMappingAdapter.java
+END
+ValidatorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/TMT-EventService-POC/!svn/ver/478/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/ValidatorUtil.java
+END
+DataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TMT-EventService-POC/!svn/ver/445/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/DataStore.java
+END
+PublisherStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TMT-EventService-POC/!svn/ver/445/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/PublisherStatistics.java
+END
+LoadDistributionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/TMT-EventService-POC/!svn/ver/344/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/LoadDistributionManager.java
+END
+FileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TMT-EventService-POC/!svn/ver/524/Phase%202/source/mbsuite-publisher-base/src/com/persistent/bcsuite/support/FileStore.java
+END

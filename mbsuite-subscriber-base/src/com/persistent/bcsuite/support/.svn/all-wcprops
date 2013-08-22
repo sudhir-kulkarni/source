@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TMT-EventService-POC/!svn/ver/446/Phase%202/source/mbsuite-subscriber-base/src/com/persistent/bcsuite/support
+END
+TasksMappingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TMT-EventService-POC/!svn/ver/61/Phase%202/source/mbsuite-subscriber-base/src/com/persistent/bcsuite/support/TasksMappingAdapter.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/TMT-EventService-POC/!svn/ver/61/Phase%202/source/mbsuite-subscriber-base/src/com/persistent/bcsuite/support/Validator.java
+END
+SubscriberDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/TMT-EventService-POC/!svn/ver/376/Phase%202/source/mbsuite-subscriber-base/src/com/persistent/bcsuite/support/SubscriberDetail.java
+END
+SubscriberStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/TMT-EventService-POC/!svn/ver/446/Phase%202/source/mbsuite-subscriber-base/src/com/persistent/bcsuite/support/SubscriberStatistics.java
+END
+TopicsMappingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TMT-EventService-POC/!svn/ver/61/Phase%202/source/mbsuite-subscriber-base/src/com/persistent/bcsuite/support/TopicsMappingAdapter.java
+END
