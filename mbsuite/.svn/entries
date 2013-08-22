@@ -1,0 +1,77 @@
+9
+
+dir
+550
+https://hjsvn.persistent.co.in/svn/TMT-EventService-POC/Phase%202/source/mbsuite
+https://hjsvn.persistent.co.in/svn/TMT-EventService-POC
+
+
+
+2013-08-21T14:22:38.252627Z
+549
+sudhir_kulkarni
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e4edcb71-c48f-4a5e-bcb8-bfe1cb4d93ba
+
+export
+dir
+
+ext-lib
+dir
+
+.project
+file
+
+
+
+
+2013-08-19T10:45:55.028929Z
+79c676b9f040aa5ef434d44a682de92b
+2013-07-17T05:30:49.196240Z
+62
+sudhir_kulkarni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+200
+
+config
+dir
+
+lib
+dir
+
+bin
+dir
+

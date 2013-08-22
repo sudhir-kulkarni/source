@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TMT-EventService-POC/!svn/ver/549/Phase%202/source/mbsuite/bin
+END
+test-publisher.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TMT-EventService-POC/!svn/ver/528/Phase%202/source/mbsuite/bin/test-publisher.sh
+END
+test-subscriber.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TMT-EventService-POC/!svn/ver/527/Phase%202/source/mbsuite/bin/test-subscriber.sh
+END

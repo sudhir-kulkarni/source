@@ -1,0 +1,18 @@
+#!/bin/bash
+#parameter for config
+#This decides how long the subscriber thread receives the messages. after this time, the subcriber thread stops receiving messages
+shutdownDelay=17
+
+#This decides the max number of subscriber threads that will be created. If you want one thread per topic, increase the maxTopics to the same value as this
+maxSubscriber=1
+
+#This is useful only for latency test. Dont turn this true for any other tests
+dumpDetails=false
+
+#This decides the number of topics that will be used.
+maxTopics=1
+
+#This is used to iterate the same test multiple times. Most of the times this should be kept to 1 unless you need to run in
+#iterations
+iteration=1
+

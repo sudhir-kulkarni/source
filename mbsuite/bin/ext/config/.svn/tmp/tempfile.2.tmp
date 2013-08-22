@@ -1,0 +1,8 @@
+#!/bin/bash
+#parameter for config
+runSec=10
+maxPublisher=1
+msgSize=100
+dumpDetails=false
+maxTopics=1
+iteration=1
