@@ -1,7 +1,0 @@
-#!/bin/bash
-#parameter for config
-shutdownDelay=17
-maxSubscriber=1
-dumpDetails=false
-maxTopics=1
-iteration=1

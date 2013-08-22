@@ -1,7 +1,0 @@
-MEM_STATS=select message_size,total_messages_sent from publisher_summary where token = ? and iteration = 1#Publisher Througput With Size
-PV_SIZE=SELECT message_size as "Message Size",tput_msg_per_sec as "Throughput(msg/sec)" FROM (select p.token,p.message_size,num_publishers,num_subscribers,avg(p.tput_msg_per_sec) as tput_msg_per_sec from publisher_summary p,subscriber_summary s where s.token=p.token and s.iteration = p.iteration and s.num_subscribers=1 and num_publishers=1 and p.token=? group by p.token,p.message_size,num_publishers,num_subscribers) AS A#Publisher throughput with varying messaging size
-CPU_SPREAD=select max(pcpu) as "Max CPU %",cpu as CPU from publisher_cpu_statistics where token=? group by cpu#CPU Spread
-CPU_UTIL=SELECT pcpu FROM publisher_cpu_statistics p where token=?#CPU Utilization
-IO_READS=SELECT kb_reads_ps as "Reads(kb/sec)" FROM publisher_disk_statistics p where token = ?#Disk Activity(Reads)
-IO_WRITES=SELECT kb_writes_ps as "Writes(kb/sec)" FROM publisher_disk_statistics p where token = ?#Disk Activity(Writes)
-NW_UTIL_1G=SELECT putil as "Percent of Bandwidth" FROM publisher_network_statistics p where token=? and interface='em1'#Network Utilization(1 GB)

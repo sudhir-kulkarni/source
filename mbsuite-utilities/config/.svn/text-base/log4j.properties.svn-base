@@ -1,7 +1,0 @@
-log4j.rootLogger=INFO, root
-log4j.appender.root=org.apache.log4j.ConsoleAppender
-log4j.appender.root.layout=org.apache.log4j.PatternLayout
-
-# Print the date in ISO 8601 format
-log4j.appender.root.layout.ConversionPattern=%d %-5p [%t] %c - %m%n
-

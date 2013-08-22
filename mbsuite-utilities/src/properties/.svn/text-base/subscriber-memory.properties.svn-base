@@ -1,4 +1,0 @@
-skipLines=3
-separator=space
-db-coloumn=token:string,time:time,PID:int,min_flts:double,maj_flts:double,virtual_size:int,RSS:int,pmem:double,command:string
-db-table=subscriber_memory_statistics
